@@ -65,7 +65,7 @@
 		311194851BF42DE3009F82A6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3111948A1BF42DF7009F82A6 /* 答案.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "答案.c"; sourceTree = "<group>"; };
 		3111948B1BF42DF7009F82A6 /* 作业.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "作业.c"; sourceTree = "<group>"; };
-		3111948E1BF42F1B009F82A6 /* README.M */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = README.M; sourceTree = "<group>"; };
+		3111948E1BF42F1B009F82A6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +103,7 @@
 		311192971BF428CE009F82A6 = {
 			isa = PBXGroup;
 			children = (
-				3111948E1BF42F1B009F82A6 /* README.M */,
+				3111948E1BF42F1B009F82A6 /* README.md */,
 				311194631BF42B7A009F82A6 /* 01第一个C语言程序 */,
 				3111946E1BF42BCF009F82A6 /* 02练习 */,
 				311194791BF42C41009F82A6 /* 03-注释 */,

@@ -4,6 +4,66 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>01知识点回顾.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>02常量.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>03变量.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>04变量的多种初始化方式.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>05变量为什么要区分类型.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>06变量的注意点.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>07变量的作用域.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>08printf函数.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+		<key>09printf函数细节.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>10scanf函数基本使用.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>11scanf运行原理.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>12作业.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
 		<key>day02.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +73,66 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>311192C21BF42949009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311194921BF43417009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3111949D1BF43457009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311194A81BF434A8009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311194B31BF434E9009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311194BE1BF4352B009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311194C91BF4356F009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311194D41BF435A1009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311194DF1BF435E6009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311194EA1BF43628009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311194F51BF43689009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311195001BF436CD009F82A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3111950B1BF43893009F82A6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
